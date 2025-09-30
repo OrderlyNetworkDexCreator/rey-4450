@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "The next-gen launchpad with fair 50/50 fee sharing. Empower creators, aligning communities",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Rewards,Portfolio,Markets",
+  "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Markets",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
