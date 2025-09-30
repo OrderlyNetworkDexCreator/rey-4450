@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "ebde679e6da1076078a5407aef9dc458",
   "VITE_APP_NAME": "starry",
   "VITE_APP_DESCRIPTION": "The next-gen launchpad with fair 50/50 fee sharing. Empower creators, aligning communities",
   "VITE_HAS_PRIMARY_LOGO": "true",
